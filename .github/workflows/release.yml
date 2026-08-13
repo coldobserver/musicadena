@@ -69,5 +69,5 @@ jobs:
           releaseName: "Musicadena v__VERSION__"
           releaseBody: "Automated release from GitHub Actions."
           prerelease: false
-          releaseDraft: true
+          releaseDraft: false
           args: ${{ matrix.args }}

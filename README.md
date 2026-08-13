@@ -1,5 +1,7 @@
 # Musicadena
 
+[![Release](https://img.shields.io/github/v/release/coldobserver/musicadena?label=latest%20release)](https://github.com/coldobserver/musicadena/releases/latest)
+
 A cross-platform music player built with Tauri 2, React, and TypeScript. Search and stream music from multiple sources, manage your local library, and keep play history — all in one desktop app.
 
 > Built with assistance from [opencode](https://opencode.ai).
@@ -55,7 +57,7 @@ git tag v0.1.0
 git push origin v0.1.0
 ```
 
-A draft GitHub Release is created with installers for Windows and Linux.
+A GitHub Release is created with installers for Windows and Linux. Download them from the [Releases page](https://github.com/coldobserver/musicadena/releases).
 
 ## License
 
