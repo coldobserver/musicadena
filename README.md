@@ -61,4 +61,8 @@ A GitHub Release is created with installers for Windows and Linux. Download them
 
 ## License
 
-Private project.
+[MIT](LICENSE)
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
